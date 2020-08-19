@@ -2,9 +2,9 @@
 
 Objective : Create an service that will be predicts the salary of a person based on the demographics, education etc using machine learning algorithms
 
-Tools used: Python, Jupyter notebook, Django Framework, Rest APIs, Git command line
+Tools used: **Python, Jupyter notebook, Django Framework, Rest APIs, Git command line**
 
-Libraries used: pandas, scikit-learn, joblib, numpy, requests, django, rest_framework, 
+Libraries used: **pandas, scikit-learn, joblib, numpy, requests, django, rest_framework** 
 
 Steps involved in Project:
 
@@ -14,7 +14,7 @@ Steps involved in Project:
 
 3. Read the dataset, do the required preprocessing and make an machine learning model with scikit-learn library. 
 
-4. Save preprocessing objects and models using *joblib library*.
+4. Save preprocessing objects and models using joblib library.
 
 5. Define database models in models.py file of the Django framework and update the variable "Installed apps" in setting.py file. 
 
