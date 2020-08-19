@@ -2,7 +2,7 @@
 
 Objective : Create an service that will be predicts the salary of a person based on the demographics, education etc using machine learning algorithms
 
-Tools used: Python, Jupyter notebook, Django Framework, Rest APIs 
+Tools used: Python, Jupyter notebook, Django Framework, Rest APIs, Git command line
 
 Libraries used: pandas, scikit-learn, joblib, numpy, requests, django, rest_framework, 
 
