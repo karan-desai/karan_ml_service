@@ -1,6 +1,6 @@
 # karan_ml_service
 
-Objective : Create an service that will be predicts the salary of a person based on the demographics, education etc using multiple machine learning algorithms
+Objective : Create an service that will be predicts the salary of a person based on the demographics, education etc using machine learning algorithms
 
 Tools used: Python, Jupyter notebook, Django Framework, Rest APIs 
 
